@@ -7,7 +7,7 @@ The relevant data and code are still being organized, it will be released here a
 + Datasets for Gene Set Enrichment Analysis (GSEA) [[link]](https://www.gsea-msigdb.org/gsea/index.jsp)
 + Datasets for The Cancer Genome Atlas (TCGA) [[link]](https://gdc.cancer.gov/about-data/data-sources)
 
-## 📋 License and acknowledgements
+## 📋 License
 This project is released under the [MIT license](https://github.com/ohayonguy/PMRF/blob/main/LICENSE).
 
 ## 📧 Contact
