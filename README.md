@@ -7,7 +7,7 @@ The relevant data and code will be released here as soon as they are organized!
 
 Clone the epository
 ```
-git clone https://github.com/PiPiNam/ML-GCP.git
+git clone https://github.com/leenamx/ML-GCP.git
 ```
 
 We recommend using Anaconda or Miniconda to create a virtual environment and install the required dependencies. We used Python 3.9 for development and experiments.
@@ -32,7 +32,7 @@ Coming Soon!
 Coming Soon!
 
 ## 📋 License
-This project is released under the [MIT license](https://github.com/ohayonguy/PMRF/blob/main/LICENSE).
+This project is released under the [MIT license](https://github.com/leenamx/ML-GCP/blob/main/LICENSE).
 
 ## 📧 Contact
 If you have any questions or inquiries, please feel free to [contact me](mailto:leenamx@outlook.com).
