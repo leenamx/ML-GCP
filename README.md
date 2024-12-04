@@ -12,7 +12,7 @@ git clone https://github.com/leenamx/ML-GCP.git
 
 We recommend using Anaconda or Miniconda to create a virtual environment and install the required dependencies. We used Python and R for development and experiments.
 
-Here is the introduction for Python envrionment development:
+Here is the tutorial for setting up the Python environment:
 ```
 conda create -n mlgcp python=3.9
 conda activate mlgcp
