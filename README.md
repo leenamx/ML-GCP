@@ -1,7 +1,7 @@
 # ML-GCP
 This is the official repository for paper "**Machine Learning Reveals Glycolytic Key Gene in Gastric Cancer Prognosis**".
 
-The relevant data and code will be released here as soon as they are organized!
+The relevant data and code are now available!
 
 ## 🚀 Quick Start
 
